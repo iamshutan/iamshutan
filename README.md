@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamshutan
+- 👋 Hi, I’m shutan
 - 👀 I’m interested in playing computer games
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
